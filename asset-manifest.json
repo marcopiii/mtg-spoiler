@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//mtg-spoiler/static/css/main.ba7fbd11.chunk.css",
+    "main.js": "//mtg-spoiler/static/js/main.c78eecca.chunk.js",
+    "main.js.map": "//mtg-spoiler/static/js/main.c78eecca.chunk.js.map",
+    "runtime-main.js": "//mtg-spoiler/static/js/runtime-main.d891187f.js",
+    "runtime-main.js.map": "//mtg-spoiler/static/js/runtime-main.d891187f.js.map",
+    "static/js/2.cd0dd1d1.chunk.js": "//mtg-spoiler/static/js/2.cd0dd1d1.chunk.js",
+    "static/js/2.cd0dd1d1.chunk.js.map": "//mtg-spoiler/static/js/2.cd0dd1d1.chunk.js.map",
+    "index.html": "//mtg-spoiler/index.html",
+    "precache-manifest.c9f953f210c448da29a566f1b690db69.js": "//mtg-spoiler/precache-manifest.c9f953f210c448da29a566f1b690db69.js",
+    "service-worker.js": "//mtg-spoiler/service-worker.js",
+    "static/css/main.ba7fbd11.chunk.css.map": "//mtg-spoiler/static/css/main.ba7fbd11.chunk.css.map",
+    "static/js/2.cd0dd1d1.chunk.js.LICENSE.txt": "//mtg-spoiler/static/js/2.cd0dd1d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d891187f.js",
+    "static/js/2.cd0dd1d1.chunk.js",
+    "static/css/main.ba7fbd11.chunk.css",
+    "static/js/main.c78eecca.chunk.js"
+  ]
+}
