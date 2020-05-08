@@ -16,6 +16,7 @@
     "react-dom": "^16.13.1",
     "react-flexview": "^5.0.0",
     "react-scripts": "3.4.1",
+    "scryfall-sdk": "^1.6.3",
     "typescript": "~3.7.2"
   },
   "scripts": {
